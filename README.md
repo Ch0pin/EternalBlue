@@ -12,7 +12,7 @@ In case of successfull exploitation you get a reverse shell at the listener's wi
 
 1. Download the repo localy:
 
-   ######git clone https://github.com/Ch0pin/EternalBlue.git
+   #git clone https://github.com/Ch0pin/EternalBlue.git
 
 2. cd to EternalBlue and run
 
