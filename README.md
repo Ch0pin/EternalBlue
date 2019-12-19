@@ -1,6 +1,6 @@
 ### Title: A handy script for kali box 
 
->  Description: In short the specific script automates the exploitation procedure of the specific vulnerability:
+>  Description: In short the specific script automates the exploitation procedure of the specific vulnerability (for both x84, x64 architecture):
 
 1. Uploads downloadAndExecute.vbs to the target machine
 2. Starts a web server (at port 80) in order to deliver a netcat binary
